@@ -1,0 +1,76 @@
+{
+   "info":"success",
+   "num":7,
+   "result":[
+      {
+         "id":1,
+         "judule":"Nether Update Addon",
+         "icone":"http:\/\/livemovies.club\/mcpe_icons\/nether_update_addon.jpg",
+         "file_url":"http:\/\/livemovies.club\/mcpe_addons\/nether_update_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"http:\/\/livemovies.club\/mcpe_html\/nether_update_addon.html",
+         "extension":"mcpack",
+         "deskripsine":"Minecraft Java Edition Nether Update Addon Ported to MCPE!\n\nNote this addon is still in beta so a lot of things are changing, getting added, getting removed, etc.\n\nCreator: twitter.com\/rainbowstevepe"
+      },
+      {
+         "id":2,
+         "judule":"Nether Mobs Concept Addon",
+         "icone":"http:\/\/livemovies.club\/mcpe_icons\/nether_mobs_concept_addon.jpg",
+         "file_url":"http:\/\/livemovies.club\/mcpe_addons\/nether_mobs_concept_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"http:\/\/livemovies.club\/mcpe_html\/nether_mobs_concept_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on brings you who want to know the new mobs of the nether update that is available for now only for java edition, Hoglin and Piglin!You will have an experience similar to snapshots released for java, since they have the behaviors almost identical to this add-on!"
+      },
+      {
+         "id":3,
+         "judule":"Morph Addon",
+         "icone":"http:\/\/livemovies.club\/mcpe_icons\/morph_addon.jpg",
+         "file_url":"http:\/\/livemovies.club\/mcpe_addons\/morph_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"http:\/\/livemovies.club\/mcpe_html\/morph_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Have you been wondering how to be a mob just like the zombie or creeper? Well now, you can be a mob now using this addon. This addon makes you morph into mobs like pigs or cows.How To MorphTo morph into any other mobs, you need an item called Soul Catcher. To be able to obtain the Soul Catcher, you need to find one in the chest of a Nether Fortress."
+      },
+      {
+         "id":4,
+         "judule":"Morph Plus Addon",
+         "icone":"http:\/\/livemovies.club\/mcpe_icons\/morph_plus_addon.jpg",
+         "file_url":"http:\/\/livemovies.club\/mcpe_addons\/morph_plus_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"http:\/\/livemovies.club\/mcpe_html\/morph_plus_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This Add-on allowed you to morph into 30 mobs from Minecraft.Zombie, Husk, Dorwned, Zombie Pigman, Enderman, Skeleton, Stray, Creeper, Blaze, Cow, Pig, Sheep, Chicken, Spider, Iron Golem, Villager, Wolf, Cat, Bat, Slime, Snow Golem, Ghast, Vex, Bee, Horse, Witch, Axolotl, Shulker, Fox and all mobs in this Add-on have a full abilities"
+      },
+      {
+         "id":5,
+         "judule":"Billeys Mobs Addon",
+         "icone":"http:\/\/livemovies.club\/mcpe_icons\/billeys_mobs_addon.jpg",
+         "file_url":"http:\/\/livemovies.club\/mcpe_addons\/billeys_mobs_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"http:\/\/livemovies.club\/mcpe_html\/billeys_mobs_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This is an add-on which implements 13 brand-new mobs to the game.\n\nThe mobs include everything from sea creatures such as the Angler Fish and Swordfish to mobs which live on land such as the Skeleton Cat.\n\nIt\u2019s a great addition to the game if you want to experience something completely new in Minecraft!\n\nCreator: billeyzambie"
+      },
+      {
+         "id":6,
+         "judule":"Mythic Mobs Addon",
+         "icone":"http:\/\/livemovies.club\/mcpe_icons\/mythic_mobs_addon.jpg",
+         "file_url":"http:\/\/livemovies.club\/mcpe_addons\/mythic_mobs_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"http:\/\/livemovies.club\/mcpe_html\/mythic_mobs_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This addon replaces five mobs in Minecraft with 5 mythical monsters.\n\nAll of the mobs are hostile during all hours of the day except for the werewolf which only turns dangerous during the night.\n\nThe mobs look really frightening and is a really good addition to the game if you want a complete new set of mobs to fight!\n\nCreator: twitter.com\/TheEnderface"
+      },
+      {
+         "id":7,
+         "judule":"Mowzies Mobs Addon",
+         "icone":"http:\/\/livemovies.club\/mcpe_icons\/mowzies_mobs_addon.jpg",
+         "file_url":"http:\/\/livemovies.club\/mcpe_addons\/mowzies_mobs_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"http:\/\/livemovies.club\/mcpe_html\/mowzies_mobs_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This is a Non Official version for Minecraft Bedrock Edition we are not the owners of Original Mowzie's Mobs mod from Java Edition, we have all the perms to do it, this addon is only created by Gabriel Cape and Just Mr Devil.Mowzie's Mobs mod, created originally by Bob mowzie, adds a variety of fictional creatures to Minecraft, priding itself in unique AI, environmental and atmospheric appropriateness, and standard-setting animations. "
+      }
+   ]
+}

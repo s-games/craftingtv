@@ -1,0 +1,46 @@
+{
+   "info":"success",
+   "num":4,
+   "result":[
+      {
+         "id":1,
+         "judule":"Plants Vs Zombies Map",
+         "icone":"http:\/\/livemovies.club\/mcpe_icons\/plants_vs_zombies_map.jpg",
+         "file_url":"http:\/\/livemovies.club\/mcpe_maps\/plants_vs_zombies_map.zip",
+         "typeMCPE":"Map",
+         "html_file":"http:\/\/livemovies.club\/mcpe_html\/plants_vs_zombies_map.html",
+         "extension":"mcworld",
+         "deskripsine":"Missing Sunflowers? You can see them here!\nMissing Crazy Dave? You can talk to him here!\nMissing the Zombies? Fight them here!\nThis Map has some unique features that you can only see here!\nWelcome to Update v.7!Zomboss is Here! "
+      },
+      {
+         "id":2,
+         "judule":"Minecraft Vs Zombies Map",
+         "icone":"http:\/\/livemovies.club\/mcpe_icons\/minecraft_vs_zombies_map.jpg",
+         "file_url":"http:\/\/livemovies.club\/mcpe_maps\/minecraft_vs_zombies_map.zip",
+         "typeMCPE":"Map",
+         "html_file":"http:\/\/livemovies.club\/mcpe_html\/minecraft_vs_zombies_map.html",
+         "extension":"mcworld",
+         "deskripsine":"Have you ever wanted to play games like Plants vs Zombies but in mincraft?\n\nThis map is for you.\n\nThe map has three modes, easy\/tutorial, hard, and sandbox mode. Easy mode start you off with 60 dollars while hard mode starts you off with 20 dollars. In sandbox mode you get infinite money and you can spawn any of the waves you want at any time. If you want to play easy or hard mode you should start off with getting a money maker tower and an arrow tower. As the rounds get harder you should buy more powerful towers\/powerups to defeat the zombies. Be aware that the zombies can destroy your defences when they get close so be smart when you place your towers. "
+      },
+      {
+         "id":3,
+         "judule":"Jason Vs Freddy Addon",
+         "icone":"http:\/\/livemovies.club\/mcpe_icons\/jason_vs_freddy_addon.jpg",
+         "file_url":"http:\/\/livemovies.club\/mcpe_addons\/jason_vs_freddy_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"http:\/\/livemovies.club\/mcpe_html\/jason_vs_freddy_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Jason VS Freddy is a horror movie where Jason Vorhees and Freddy Krueger fights and has a deadly battle to each other.\n\nThis killers can now be seen in Minecraft using this add-on.\n\nJust like in the movie, once the two entities seen each others, they will start a deadly battle and will attack until one of them dies.\n\nThey also kill other entities in the game similar to the movie.\n\nCreator: twitter.com\/TheCommanderCr1"
+      },
+      {
+         "id":4,
+         "judule":"Godzilla Vs Kingkong Addon",
+         "icone":"http:\/\/livemovies.club\/mcpe_icons\/godzilla_vs_kingkong_addon.jpg",
+         "file_url":"http:\/\/livemovies.club\/mcpe_addons\/godzilla_vs_kingkong_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"http:\/\/livemovies.club\/mcpe_html\/godzilla_vs_kingkong_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"GODZILLA vs KONG is now available on MCPEDL.\n\nWitness the two Titans battling each other in your world.\n\nDont forget the other Titans Which of them are good and which of them is bad."
+      }
+   ]
+}
