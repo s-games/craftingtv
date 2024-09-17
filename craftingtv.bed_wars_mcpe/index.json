@@ -5,10 +5,10 @@
       {
          "id":1,
          "judule":"BedWars Map",
-         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/bedwars.webp",
-         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/bedwars.zip",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/bedwars.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/bedwars.zip",
          "typeMCPE":"Map",
-         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/bedwars.html",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/bedwars.html",
          "extension":"mcworld",
          "deskripsine":"Your objective will be to destroy the beds of the opposing teams, and so they will not be able to respawnear, and so.\r\n\r\nif they die once again without a bed, they will lose the game."
       },
