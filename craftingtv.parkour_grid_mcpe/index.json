@@ -5,10 +5,10 @@
       {
          "id":1,
          "judule":"Parkour Grid Map",
-         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/parkour_grid.webp",
-         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/parkour_grid.zip",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/parkour_grid.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/parkour_grid.zip",
          "typeMCPE":"Map",
-         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/parkour_grid.html",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/parkour_grid.html",
          "extension":"mcworld",
          "deskripsine":"Parkour Grid is a parkour map with 100 mini levels all built on a 10&#215;10 grid\n\nThe average gameplay time can be about 2 hours long! (This is a huge map)\n\nThis map works in singleplayer and in multiplayer."
       },
