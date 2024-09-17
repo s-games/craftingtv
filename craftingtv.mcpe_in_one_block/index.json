@@ -5,10 +5,10 @@
       {
          "id":1,
          "judule":"Minecraft In One Block Map",
-         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/one_block.webp",
-         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/one_block.zip",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/one_block.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/one_block.zip",
          "typeMCPE":"Map",
-         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/one_block.html",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/one_block.html",
          "extension":"mcworld",
          "deskripsine":"In this MIOB map you will start in one block\r\n\r\nFrom this block you will have to get everything you need to go and kill the enderdragon."
       },
