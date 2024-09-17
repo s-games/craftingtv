@@ -5,10 +5,10 @@
       {
          "id":1,
          "judule":"Raft Survival Map",
-         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/raft.webp",
-         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/raft.zip",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/raft.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/raft.zip",
          "typeMCPE":"Map",
-         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/raft.html",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/raft.html",
          "extension":"mcworld",
          "deskripsine":"Your boat has been destroyed. All you have left is a board of wood like a raft. Will you survive with a shark near you?Use your hammer to see the list of obtainable objects"
       },
