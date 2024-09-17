@@ -1,0 +1,186 @@
+{
+   "info":"success",
+   "num":2,
+   "result":[
+      {
+         "id":30,
+         "judule":"Nether Plus",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/nether_plus.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/nether_plus.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/nether_plus.html",
+         "extension":"mcaddon",
+         "deskripsine":"An incredible Add-on that adds new entities to the underworld that brings you many more dangers and increases the difficulty for a unique experience in the underworld."
+      },
+      {
+         "id":54,
+         "judule":"Nether Update Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/nether_update_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/nether_update_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/nether_update_addon.html",
+         "extension":"mcpack",
+         "deskripsine":"Minecraft Java Edition Nether Update Addon Ported to MCPE!\n\nNote this addon is still in beta so a lot of things are changing, getting added, getting removed, etc.\n\nCreator: twitter.com\/rainbowstevepe"
+      },
+      {
+         "id":398,
+         "judule":"Nether Mobs Concept Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/nether_mobs_concept_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/nether_mobs_concept_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/nether_mobs_concept_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on brings you who want to know the new mobs of the nether update that is available for now only for java edition, Hoglin and Piglin!\n\nYou will have an experience similar to snapshots released for java, since they have the behaviors almost identical to this add-on!"
+      },
+      {
+         "id":399,
+         "judule":"Cave Update Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/cave_update_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/cave_update_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/cave_update_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Explore new underground biomes, find new natural structures, encounter new cave themed creatures.fight a new boss, be spooked by classic cave sounds, and more in the Cave Update Add-on!\n\nThis add-on adds many very needed additions to caves to make them exciting again.\n\nCheck back for updates as more will be added in the future!\n\nDont forget to Enable Experimental Gameplay!"
+      },
+      {
+         "id":253,
+         "judule":"Flows Hd Shader Texture Pack Low 32 X 32",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/flows_hd_texture_pack_low_32_x_32.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/flows_hd_texture_pack_low_32_x_32.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/flows_hd_texture_pack_low_32_x_32.html",
+         "extension":"mcpack",
+         "deskripsine":"Flow\u2019s HD is a modern and elegant texture pack.\n\nEvery texture is very clean and gives Minecraft a very bright and joyful feel.\n\nThe great thing about this pack is that it got both a lot of textures which are suitable for interior design as well as outdoor.\n\nA great pack for somebody who wants a combination of both.\n\n\nCreator: Exevium\nNote: 32 x 32 for Low device"
+      },
+      {
+         "id":254,
+         "judule":"Flows Hd Shader Texture Pack Med 64 X 64",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/flows_hd_texture_pack_med_64_x_64.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/flows_hd_texture_pack_med_64_x_64.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/flows_hd_texture_pack_med_64_x_64.html",
+         "extension":"mcpack",
+         "deskripsine":"Flow\u2019s HD is a modern and elegant texture pack.\n\nEvery texture is very clean and gives Minecraft a very bright and joyful feel.\n\nThe great thing about this pack is that it got both a lot of textures which are suitable for interior design as well as outdoor.\n\nA great pack for somebody who wants a combination of both.\n\n\nCreator: Exevium\nNote: 64 x 64 for Medium device"
+      },
+      {
+         "id":255,
+         "judule":"Flows Hd Shader Texture Pack High 128 X 128",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/flows_hd_texture_pack_high_128_x_128.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/flows_hd_texture_pack_high_128_x_128.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/flows_hd_texture_pack_high_128_x_128.html",
+         "extension":"mcpack",
+         "deskripsine":"Flow\u2019s HD is a modern and elegant texture pack.\n\nEvery texture is very clean and gives Minecraft a very bright and joyful feel.\n\nThe great thing about this pack is that it got both a lot of textures which are suitable for interior design as well as outdoor.\n\nA great pack for somebody who wants a combination of both.\n\n\nCreator: Exevium\nNote: 128 x 128 for High end device"
+      },
+      {
+         "id":211,
+         "judule":"Energy Shaders Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/energy_shaders_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/energy_shaders_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/energy_shaders_addon.html",
+         "extension":"mcpack",
+         "deskripsine":"Energy Shaders makes your world look much better.\n\nWith better lights, shadows, fog and much more.\n\nYou should just download it and try it our for yourself.\n\nIt`s totally free!\n\n\nEnergy Shaders is one of the first shaders to offer full support for Windows 10, iOS and Android.\n\nThe most noticeable differences are for the water and lighting.\n\nThe combined result is astonishing as it makes the world look a bit more realistic but primarily just a more beautiful world to experience.\n\nIt also comes with some nice 32\u00d732 clear glass textures.\n\nCreator: LinusDev"
+      },
+      {
+         "id":212,
+         "judule":"Upwards Shaders Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/upwards_shaders_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/upwards_shaders_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/upwards_shaders_addon.html",
+         "extension":"mcpack",
+         "deskripsine":"Only Upwards is the ultimate shader to use if you find the game just too easy or for some (weird) reason want to induce seasickness.\n\nThe entire world around you will look as if it is sloped (first it goes down and then up) \u2013 but it\u2019s not.\n\nIt\u2019s just an optical illusion caused by the shader.\n\nIf you don\u2019t think the shader is enough then try adding a nausea effect to the mix!\n\nCreator: LinusDev"
+      },
+      {
+         "id":251,
+         "judule":"Esbe 2g Shader Texture Packs",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/esbe_2g_shader_texture_packs.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/esbe_2g_shader_texture_packs.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/esbe_2g_shader_texture_packs.html",
+         "extension":"mcpack",
+         "deskripsine":"ESBE_2G is a shader pack for Bedrock platforms makes your world more beautiful works on both mobile and pc.\n\nYou don\u2019t have to preparation powerful device (iPhone 5s is enough to).\n\nEnjoy your beautiful world!\n\nFeatures:\nLightweight depiction\nTone map using NTSC weighted average method\nwaving leaves & water reflection depiction\nSparkling stars, Enhanced dusk\nBeautiful clouds & aurora\nBrightness varies depending on the direction\nCompatible with both Mobile and PC(Win10)\nNo useless code\nBrightness 50 is recommended\n\nCreator: Mcbe_Eringi"
+      },
+      {
+         "id":252,
+         "judule":"Evo Shader Texture Pack",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/evo_shader_texture_pack.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/evo_shader_texture_pack.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/evo_shader_texture_pack.html",
+         "extension":"mcpack",
+         "deskripsine":"EVO Shader will bring your MCPE to \u201crealistic looking\u201d with realistic lighting, it\u2019s had many improvements in graphic, also have directional lighting from sun,semi-3D Cloud without lag and many more,\n\n\nBUG List : \n1.There\u2019s compability issue on PowerVR G6200\n2.Fix Adreno 5XX crash on game\n3.Leaves is a big issue for performance\n4.Rail 50% transparent for unknown reason\n\nBUG FIX : \n1. Fix flickering graphic for ios device\n2. Fix lighting on ios device (now ios have same lighting as an android)\n3. Optimize leaves\n4. Remove POS_FIX option (because it\u2019s useless)\n5. Fix transparent cloud on other device\n\nAdditional Setting (Locate inside \/games\/resource_packs\/myshader\/shaders\/glsl\/settings.h) :\n#define WAVY 1 \/\/set this to 1 for enable wavy shader, and 0 for disable\nSome Advice :\n1.Please turn MCPE brightness to \u201c0\u201d to make sure there\u2019s no lighting issue in-game\n2.Adjust your phone brightness to good bright for good gameplay\nUseful information :\n1.Please wait for shader to load on your mcpe at least 1 minute from loading screen\n(if not load that\u2019s mean shader is not support on your device)\nplease contact me about that.\n2.Please read \u201cEVO Lisence.txt\u201d inside the shader if you want do something with shader \u201ccopy\/paste or etc\u201d\n3.If shader transparent means it\u2019s not support for your device or maybe it\u2019s have bug\n\nCreator: TRXDev"
+      },
+      {
+         "id":256,
+         "judule":"Seus Pe Shader Texture Pack",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/seus_pe_shader_texture_pack.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/seus_pe_shader_texture_pack.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/seus_pe_shader_texture_pack.html",
+         "extension":"mcpack",
+         "deskripsine":"This is to date the most realistic shaders pack for Minecraft PE.\n\nThe light of the sun and moon shimmers beautifully when reflected on the water.\n\nShadows have been massively improved and so have the sky and the Nether. The hype for this is real and you should definitely give it a try if you want to experience a more realistic version of Minecraft.\n\n\nCreator: Gabriel Paix\u00e3o"
+      },
+      {
+         "id":257,
+         "judule":"Simple Shader Sspe Texture Pack",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/simple_shader_sspe_texture_pack.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/simple_shader_sspe_texture_pack.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/simple_shader_sspe_texture_pack.html",
+         "extension":"mcpack",
+         "deskripsine":"Simple Shader is a lightweight shader pack which is the perfect solution for anyone who have got a low-end device and haven\u2019t been able to use any of the other shader packs.\n\nIt\u2019s a much more simple pack which still got some of the essential features (such as more realistic skies) to make Minecraft much more beautiful and faithfully realistic. \n\nCreator: RyFol"
+      },
+      {
+         "id":258,
+         "judule":"Ultramax Shader Texture Packs",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/ultramax_shader_texture_packs.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/ultramax_shader_texture_packs.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/ultramax_shader_texture_packs.html",
+         "extension":"mcpack",
+         "deskripsine":"A shader pack that subtly change the way you look at Minecraft.\n\nThis shader pack is aimed to improve some of the basic lighting and visual projections by introducing a very unique way of rendering it in its own way. Colors are more vibrant, surroundings are more atmospheric, and even the overall gameplay.\n\nHave a shader nice and pretty, basic makes unique.\n\nProudly presented to you by Ultra Shader Foundation.\n\n\nREMINDER:\nDue to changes in entity rendering methods, this shader pack can only work on version 1.14 and above.\n\nPLEASE NOTE:\nMy shader pack is designed to ONLY WORK ON RELEASE VERSIONS NOT BETA VERSIONS because I\u2019m too lazy to sign up for beta plus beta versions are tend to be unstable anyway\u2026\n\nWARNINGS FOR SNAPDRAGON USERS:\nUltraMax Shader have been confirmed to not be compatible with majority of Adreno based GPUs. If your phone is a Snapdragon chipset or has an Adreno GPU, unfortunately this shader pack is not for you\u2026 Unless somehow I find a way to fix it\u2026\n\nIdentifying Compatibility:\nTo identify whether or not this shader is compatible with your device, check your character skin in the home menu:\n\n\nCreator: gengHAr15"
+      },
+      {
+         "id":276,
+         "judule":"Parallax Shaders Texture Packs",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/parallax_shaders_texture_packs.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/parallax_shaders_texture_packs.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/parallax_shaders_texture_packs.html",
+         "extension":"mcpack",
+         "deskripsine":"What is Parallax Shaders?\nParallax shaders is a project that aims to bring the most dynamic and realistic shaders bedrock edition has seen. Many shaders are too dark or too washed out and that ends with parallax shaders. It introduces techniques that bring us the closest to static ray tracing through rigorous testing.\n\n\nFeatures:\nRealistic, Clear, Vibrant Weathers & Lighting!\nRealistic Water Animations, Color, & Transparency\nRealistic Shadow Casting & Illumination\nBump Mapping\/POM (For ALL Texture Packs (3D)\nRealistic Night Time & Darkness\n\n\nCreator: TheHybred"
+      },
+      {
+         "id":277,
+         "judule":"Rspe Shaders Texture Packs",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/rspe_shaders_texture_packs.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/rspe_shaders_texture_packs.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/rspe_shaders_texture_packs.html",
+         "extension":"mcpack",
+         "deskripsine":"RSPE Shaders is a resource pack which makes the world look more vibrant, realistic and alive.\n\nSome things which it changes are the clouds, water, lava and shadows.\n\nThis is one of the best shader packs for version 0.16\/0.17 for Minecraft PE.\n\nIt has been specifically designed for iOS devices but it will also work on Android.\n\nAll in all, it\u2019s an amazing shaders pack!\n\n\nCreator: RyFol"
+      },
+      {
+         "id":358,
+         "judule":"Fishys Wonderful Shader Texture Pack",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/fishys_wonderful_shader_texture_pack.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/fishys_wonderful_shader_texture_pack.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/fishys_wonderful_shader_texture_pack.html",
+         "extension":"mcpack",
+         "deskripsine":"Ever just look at Minecraft and think \"this is pretty nice but I want it to look better\"? Well youve come to the right MCPEDL page! this \"shader\" features multiple new visual changes such as new water, fabulous skies and more!\n\nFishys Acidic Shader is a shader for Java 1.17+ because 1.17 introduces a new OpenGL engine called OpenGL Core 3.2 and it allows resource pack creators to add shaders with very easy to make code, Note that this shader is in early alpha stages and is very buggy and far from a full release but I am openly giving people the option to test it in its earliest version.\n\nBy: Mx Fishy"
+      },
+      {
+         "id":366,
+         "judule":"Natural Mystic Shaders Texture Pack",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/natural_mystic_shaders_texture_pack.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/natural_mystic_shaders_texture_pack.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/natural_mystic_shaders_texture_pack.html",
+         "extension":"mcpack",
+         "deskripsine":"Natural Mystic Shaders is a shader pack for Minecraft Bedrock aiming to be as realistic as possible. It will change many aspects of your game, some which includes shadows, torch light, sunlight, moonlight and other.\n\nBy: PHO"
+      }
+   ]
+}
