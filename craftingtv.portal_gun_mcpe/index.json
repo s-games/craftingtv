@@ -1,0 +1,57 @@
+
+	  {
+   "info":"success",
+   "num":5,
+   "result":[
+      {
+         "id":1,
+         "judule":"Portal Gun Addon",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/portal_guns.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/portal_guns.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/portal_guns.html",
+         "extension":"mcaddon",
+         "deskripsine":"Want to experience the portal gun of java but in bedrock? with this add-on you can now experience the beauty that is the portal gun and you can now troll the animals and even your friends by teleporting them everywhere.\n\nBy: Amon28"
+      },
+      {
+         "id":2,
+         "judule":"Portal Gun 3d Addon",
+         "icone":"https://livemovies.club\/mcpe_icons\/portal_gun_3d_addon.jpg",
+         "file_url":"https://livemovies.club\/mcpe_addons\/portal_gun_3d_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club\/mcpe_html\/portal_gun_3d_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on adds a functional portal gun to the game, based off the portal gun from the popular game Portal, Portal 2 it\u2019ll help you travel around your world. No scripts involved!\n\nTo get the blue portal gun you\u2019ll need to craft it. It requires a nether star which is hard to obtain in survival mode.\n\nBy: ArticStudios"
+      },
+      {
+         "id":3,
+         "judule":"Actual Guns 3d Addon",
+         "icone":"https://livemovies.club\/mcpe_icons\/actual_guns_3d_addon.jpg",
+         "file_url":"https://livemovies.club\/mcpe_addons\/actual_guns_3d_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club\/mcpe_html\/actual_guns_3d_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Do you like gun addons? like all-time popular ActualGuns addon, what about trying something new? Such as 3D Weapons! Then you should definitely try ActualGuns 3D, this addon is available for Minecraft bedrock edition.\n\nCredits: PixelPoly Digital"
+      },
+      {
+         "id":4,
+         "judule":"Xm Guns Addon",
+         "icone":"https://livemovies.club\/mcpe_icons\/xm_guns_addon.jpg",
+         "file_url":"https://livemovies.club\/mcpe_addons\/xm_guns_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club\/mcpe_html\/xm_guns_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"I made this addon to share with all players.\n\nYou can play csgo and pubg in Minecraft.\n\nAdds 25 guns 5 bombs to the games.\n\nThis is a particularly technical addon.\n\nWhy do I say this?\n\n\nCreator: Distant"
+      },
+      {
+         "id":5,
+         "judule":"Better Gun Bedrocks Addon",
+         "icone":"https://livemovies.club\/mcpe_icons\/better_gun_bedrocks_addon.jpg",
+         "file_url":"https://livemovies.club\/mcpe_addons\/better_gun_bedrocks_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://livemovies.club\/mcpe_html\/better_gun_bedrocks_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Want to use guns with other addons? Want to craft them in Survival? Better guns lets you do just that! With Multiplayer and Multi-Addon support, Better Guns are just better! \n\nBy: SyKoSoFi"
+      }
+   ]
+}
