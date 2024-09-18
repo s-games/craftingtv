@@ -6,10 +6,10 @@
       {
          "id":1,
          "judule":"Working Phone",
-         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/working_phone_map.webp",
-         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/working_phone_map.zip",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/working_phone.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/working_phone.zip",
          "typeMCPE":"Map",
-         "html_file":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/working_phone_map.html",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/mcworld/main/working_phone.html",
          "extension":"mcworld",
          "deskripsine":"MinePhone III fully functional phone that fits into the palm of your blocky hand. It uses map technology that give you a 128x screen. The phone has a working keyboard and the infamous Minecraft in Minecraft!It's very easy to get the hang of."
       },
